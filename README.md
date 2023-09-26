@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AralMuftuoglu
-- 📚 I’m a freshman student in Bilkent University
+- 📚 I’m a freshmam in Bilkent University
 - 🌿 I'm currently learning Java programming language
 - 📫 How to reach me aralmuftuoglu@hotmail.com
 
