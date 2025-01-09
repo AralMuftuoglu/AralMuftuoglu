@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AralMuftuoglu
-- 📚 I’m a freshman in Bilkent University
-- 🌿 I'm currently learning Java programming language
+- 📚 I’m a sophomore in Bilkent University
+- 🌿 I'm currently learning C++ programming language
 - 📫 How to reach me aralmuftuoglu@hotmail.com
 
 <!---
