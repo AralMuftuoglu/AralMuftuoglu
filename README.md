@@ -2,10 +2,6 @@
 
 🎓 I’m a junior majoring in Computer Engineering at Bilkent University
 
-🗃️ Currently focusing on relational database design and development
-
-🛠️ Gaining hands-on experience with SQL, PL/SQL, and Oracle environments
-
 📫 You can reach me at aralmuftuoglu@hotmail.com
 
 <!---
