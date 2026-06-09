@@ -1,10 +1,7 @@
-👋 Hi, I’m @AralMuftuoglu
+🎓 I’m a Computer Engineering student at Bilkent University.
 
-🎓 I’m a junior majoring in Computer Engineering at Bilkent University
+💻 I’m interested in data engineering, databases, backend development, and machine learning.
 
-📫 You can reach me at aralmuftuoglu@hotmail.com
+🛠️ Technologies I work with include Python, SQL, PostgreSQL, MySQL, PL/SQL, Java, Spring Boot, and Git.
 
-<!---
-AralMuftuoglu/AralMuftuoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 You can reach me at: aralmuftuoglu@hotmail.com
